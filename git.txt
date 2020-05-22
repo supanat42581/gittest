@@ -2,9 +2,3 @@ hello
 
 
 add new word
-
-<<<<<<< HEAD
-rebase na krub
-=======
-bla bla bla
->>>>>>> 395bdcbbf02d235351401f00be360361b3ea5171
